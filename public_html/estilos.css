@@ -1,0 +1,104 @@
+*{
+    margin: 0 auto;
+}
+body{background-image: url(IMAGENES/FONDO.jpg);
+     
+
+    width: 1348px;
+    height: 1800px;
+    border: #ffffff; 
+    }
+#cabecera{
+    width: 100%;
+    height: 300px;
+    background-image: url(IMAGENES/ramen2.jpg);
+}
+#intro{
+float: left;
+width: 70%;
+height: 130px;
+background-image: url(IMAGENES/narutointro.jpg);
+margin: 5px 5px 10px 0%;
+}
+#mapa{
+float: left ;
+width: 29.3%;
+height: 400px;
+margin: 5px 1px 0px 0px;
+
+}
+#menu{
+    width: 68%;
+    height: 100px;
+    background: #003333;
+    margin: 10.7% 10px 10px 2%;
+}
+#menu #logopequeño{
+  
+  background-image: url(IMAGENES/narutologo.jpg);
+  width: 200px;
+  height: 100px;
+  margin: 0px 0px 0px 0%;
+}
+#cuerpo{
+    width: 68%;
+    height: 260px;
+    background: black;
+    margin: 10px 10px 10px 2%;
+}
+#cuerpo2{
+    width: 68%;
+    height: 400px;
+    background: #000000;
+    margin: 10px 10px 10px 2%;   
+}
+#cuerpo2 #cuadro1{
+    width: 425px;
+    height:320px;
+    background-image: url(IMAGENES/ramenfrio.jpg);
+    display: inline-block;
+    vertical-align: top;
+    margin: 65px 20px 0px 20px;
+}
+#cuerpo2 #cuadrodos{
+    width: 425px;
+    height:320px;
+    background-image: url(IMAGENES/sarada.jpg);
+    display: inline-block;
+    vertical-align: top;
+    margin: 65px 20px 0px 0px;
+}
+#cuerpo3{
+    width: 68%;
+    height: 400px;
+    background: black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 10px 10px 2%;
+}  
+#cuerpo3 #cuadroone{
+    width: 425px;
+    height:320px;
+    background-image: url(IMAGENES/gyoza.jpg);
+    display: inline-block;
+    vertical-align: top;
+    margin: 65px 20px 0px 20px;
+}
+#cuerpo3 #cuadrotwo{
+    width: 425px;
+    height:320px;
+    background-image: url(IMAGENES/misoramen.jpg);
+    display: inline-block;
+    vertical-align: top;
+    margin: 65px 20px 0px 0px;
+}    
+#pie{
+    width: 68%;
+    height: 50px;
+    background: crimson;
+    margin: 0px 10px 10px 2%;
+}
+strong{
+    float: right;
+    margin: 25px;
+}
